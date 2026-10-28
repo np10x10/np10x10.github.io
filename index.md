@@ -22,7 +22,7 @@
   <h1 class="center-text">please wait..</h1>
   <hr />
   <!-- yeah all of this is the thingy -->
-  <div class="center-everything"; style="margin-top: 25px; margin: 15px">
+  <div class="center-everything"; style="margin-top: 25px; margin: 15px"; markdown=1;>
     <p>
       my site is currently under construction! i plan to release this PROPERLY
       later (I can't be bothered to set this up properly so it looks a little jank)
